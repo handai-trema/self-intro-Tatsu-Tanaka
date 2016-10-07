@@ -13,4 +13,4 @@
 
 
 # レポート課題
-* [2016/10/05](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/report20161005.md) (課題1,2のレポート)
+* [2016/10/05](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report20161005.md) (課題1,2のレポート)
