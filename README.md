@@ -16,4 +16,5 @@
 * [スイッチの切断イベント](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_bye_switch.md) (2016/10/05 レポート課題)
 * [Hello Trema](https://github.com/handai-trema/hello-trema-Tatsu-Tanaka/blob/master/report_assignment_hello_trema.md) (2016/10/05 レポート課題)
 * [Cbenchの高速化](https://github.com/handai-trema/cbench-Tatsu-Tanaka/blob/master/report_cbench.md) (2016/10/12 レポート課題)
-* [複数スイッチ対応](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch.md) (2016/10/12 レポート課題)
+* [パッチパネルの機能拡張](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (2016/10/19 レポート課題)
+* [マルチプルテーブルを読む](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch13.md) (2016/10/19 レポート課題)
