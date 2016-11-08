@@ -18,3 +18,4 @@
 * [Cbenchの高速化](https://github.com/handai-trema/cbench-Tatsu-Tanaka/blob/master/report_cbench.md) (2016/10/12 レポート課題)
 * [パッチパネルの機能拡張](https://github.com/handai-trema/patch-panel-Tatsu-Tanaka/blob/master/report_patch_panel.md) (2016/10/19 レポート課題)
 * [マルチプルテーブルを読む](https://github.com/handai-trema/learning-switch-Tatsu-Tanaka/blob/master/report_learning_switch13.md) (2016/10/19 レポート課題)
+* [ルータのCLIを作ろう](https://github.com/handai-trema/simple-router-Tatsu-Tanaka/blob/master/report_simple_router.md) (2016/11/2 レポート課題)
